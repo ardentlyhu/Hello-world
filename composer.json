@@ -1,5 +1,5 @@
 {
-    "name": "demo1001/test",
+    "name": "Hello-world/test",
     "description": "test composer",
     "type": "library",
     "require": {
