@@ -1,0 +1,21 @@
+{
+    "name": "demo/test",
+    "description": "test composer",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "2.x-dev"
+    },
+    "license": "l",
+    "autoload": {
+        "psr-4": {
+            "Demo\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "john@example.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
