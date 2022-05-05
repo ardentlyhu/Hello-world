@@ -1,21 +1,8 @@
 {
-    "name": "Hello-world/test",
-    "description": "test composer",
-    "type": "library",
+    "name": "demo1101/hihi",
+    "description": "test Packagist",
     "require": {
-        "monolog/monolog": "2.x-dev"
-    },
-    "license": "l",
-    "autoload": {
-        "psr-4": {
-            "Demo\\Test\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "John Smith",
-            "email": "john@example.com"
-        }
-    ],
-    "minimum-stability": "dev"
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
 }
