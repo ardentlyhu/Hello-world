@@ -2,6 +2,7 @@
     "name": "demo1101/hihi",
     "description": "test Packagist",
     "require": {
-        "php": ">=7.2"
+        "php": ">=7.2"，
+        "monolog/monolog": "2.x-dev"
     }
 }
