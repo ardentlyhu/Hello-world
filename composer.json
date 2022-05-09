@@ -4,5 +4,8 @@
     "require": {
         "php": ">=7.2",
         "psr/log": "^1.0.1 || ^2.0 || ^3.0"
-    }
+    },
+    "repositories": [
+     { "type": "composer", "url": "https://mirrors.aliyun.com/composer/"}
+    ]
 }
