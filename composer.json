@@ -2,6 +2,7 @@
     "name": "demo1101/hihi",
     "description": "test Packagist",
     "require": {
-        "php": ">=7.2"
+        "php": ">=7.2",
+        "psr/log": "^1.0.1 || ^2.0 || ^3.0"
     }
 }
